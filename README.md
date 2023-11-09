@@ -1,5 +1,5 @@
-### Hi, I’m @juandadamo, professor and researcher at Universidad de Buenos Aires & CONICET.
-#### I’m interested in Fluid Mechanics, Fluid Structure interaction, reduced order models.
+Hi, I’m Juan D'Adamo@juandadamo, professor and researcher at Universidad de Buenos Aires & CONICET.
+I’m interested in Fluid Mechanics, Fluid Structure interaction, FLow Instabilities & Reduced Order Models.
 
 - 📫 How to reach me: jdadamo@fi.uba.ar
 
