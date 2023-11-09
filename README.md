@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @juandadamo, professor and researcher at Universidad de Buenos Aires & CONICET.
-- 👀 I’m interested in Fluid Mechanics, Fluid Structure interaction, reduced order models.
-- 🌱 I’m currently learning OpenFoam to apply it on fluid structure interaction.
-- 💞️ I’m looking to collaborate on my field of research and on my classes of Heat Transfer.
+### Hi, I’m @juandadamo, professor and researcher at Universidad de Buenos Aires & CONICET.
+#### I’m interested in Fluid Mechanics, Fluid Structure interaction, reduced order models.
+
 - 📫 How to reach me: jdadamo@fi.uba.ar
 
 <!---
